@@ -1,0 +1,181 @@
+Date,Account_ID,Monthly_Revenue,Order_Count,SKU_Count,Category_Count,Rolling_Rev_3M,Rev_Velocity,Rev_Acceleration,Market_Avg,Seasonal_Drift,Rev_Bath & Organization,Rev_Closet & Storage,Rev_Genereal Supplies,Rev_Home Decor,Rev_Kitchen & Dining,Prev_Rolling_Rev_3M,Gap_Rolling_Rev_3M,Prev_Rev_Acceleration,Gap_Rev_Acceleration,Prev_Rev_Bath & Organization,Gap_Rev_Bath & Organization,Prev_Rev_Closet & Storage,Gap_Rev_Closet & Storage,Prev_Rev_Genereal Supplies,Gap_Rev_Genereal Supplies,Prev_Rev_Home Decor,Gap_Rev_Home Decor,Prev_Rev_Kitchen & Dining,Gap_Rev_Kitchen & Dining,Next_Month_Revenue,Future_Change,Is_Risk_Label,Iso_Score,Risk_Probability,AI_Narrative
+2011-12-31,16013,2643.7200000000003,2,16,3,4350.553333333333,0.011824044083559,0.0554962909363637,842.6191707317074,3.133783692595544,770.8800000000001,0.0,463.24,1409.6,0.0,4299.713333333333,0,-0.5838395525819869,0,1342.3200000000002,0,0.0,0,600.4,0,1490.4,0,0.0,0,,,0,0.1008597947252016,0.9624329633662912,"DIAGNOSIS: The account is at risk due to a general volume drop, indicating a decreased engagement or usage of our services.
+
+EMAIL DRAFT: 
+Subject: Quick check-in on your account
+
+Body: 
+
+Dear valued customer,
+
+I hope this message finds you well. I'm reaching out to you as I noticed a recent decrease in the volume of your activity with us. We value your partnership and want to ensure that we are meeting your expectations.
+
+As a token of our appreciation for your business and in an effort to better serve your needs, we would like to offer you a 5% discount on your next purchase or service renewal. 
+
+Please feel free to share any concerns or feedback you may have, as it will help us improve and adapt our services to your needs. 
+
+Looking forward to hearing from you soon.
+
+Best regards,
+[Your Name]"
+2011-12-31,12471,2238.51,1,38,4,2681.2966666666666,0.2434249374723687,-0.1071374889362024,842.6191707317074,2.653460326249394,0.0,129.72,1704.77,354.22,49.8,2156.38,0,-0.0653957625687378,0,0.0,0,322.28000000000003,0,2466.7,0,458.22,0,172.8,0,,,0,0.1009410476310601,0.9144495288248168,"DIAGNOSIS: The account is at risk due to a general volume drop which is negatively affecting the revenue trend.
+
+EMAIL DRAFT: 
+Subject: Quick Check-In and Special Offer
+
+Dear Valued Client,
+
+I hope this email finds you well. We've noticed a slight drop in your recent transaction volume and we're reaching out to understand if there's anything we can do to support your business needs better.
+
+As a token of our commitment to your success, we'd like to offer a 5% discount on your next purchase. We believe this could help boost your operations while also giving you an opportunity to explore more of our services.
+
+Please feel free to share any concerns or questions you may have. We're here to assist you in any way possible.
+
+Looking forward to hearing from you soon.
+
+Best Regards,
+[Your Name]"
+2011-12-31,18245,894.25,1,55,5,587.3833333333333,0.3481577256174066,0.3475529594475668,842.6191707317074,1.0600162146912548,53.34,152.64,503.77,108.0,76.5,435.6933333333333,0,0.2871593604810208,0,12.6,0,15.9,0,306.68,0,31.34,0,0.0,0,,,0,0.1561872949351812,0.9107710829436252,"DIAGNOSIS: The account is at risk due to a general drop in volume, which is negatively impacting the revenue trend.
+
+EMAIL DRAFT: 
+Subject: Quick check-in on your account
+
+Body: 
+Dear Client,
+
+I hope this message finds you well. 
+
+We have noticed a general drop in volume on your account (ID: 18245) recently and we are concerned about the impact this might have on your business. We value your partnership and want to ensure that we are doing everything we can to support your business goals.
+
+To help mitigate this, we would like to offer a 5% discount on your next purchase. We believe this could help boost your volume and improve your revenue trend.
+
+Please let us know if you would like to discuss this further or if there is anything else we can do to assist you.
+
+Looking forward to hearing from you soon.
+
+Best Regards,
+[Your Name]"
+2011-12-31,16873,1854.83,1,78,5,1296.7233333333334,0.5065215202422719,-0.0001740096527587,842.6191707317074,2.198657954146805,215.2,201.02,870.78,375.83,192.0,860.7400000000001,0,0.9766641392751046,0,91.8,0,258.18,0,765.01,0,245.83,0,36.5,0,,,0,0.0872021435732058,0.8976062521586315,"DIAGNOSIS: The account is at risk due to a significant drop in general volume, which is negatively impacting the revenue trend.
+
+EMAIL DRAFT: 
+Subject: Quick Check-In and Special Offer
+
+Dear Client,
+
+I hope this email finds you well. I am reaching out to discuss recent trends we've noticed in your account. It seems there has been a general volume drop, which could potentially impact your revenue stream.
+
+To support you during this time and help boost your volume, we would like to extend a special offer of a 5% discount on our services for the next billing cycle.
+
+We value your partnership and are committed to helping you succeed. Please let me know a good time for a call so we can discuss this further.
+
+Looking forward to hearing from you soon.
+
+Best regards,
+[Your Name]"
+2011-12-31,12762,1436.93,1,48,4,949.26,1.0565003574600835,0.0,842.6191707317074,1.703292255383064,13.2,67.8,1066.73,289.2,0.0,461.59,0,0.0,0,0.0,0,36.0,0,336.83,0,88.75999999999999,0,0.0,0,,,0,0.0747651735420639,0.8959164512883981,"DIAGNOSIS: The account is at risk due to a general volume drop, indicating a decrease in their business activities or product/service usage.
+
+EMAIL DRAFT:
+Subject: Quick check-in and a special offer for you
+
+Dear Valued Client,
+
+I hope this message finds you well. I am reaching out to check in on your experience with our services recently. We've noticed a slight decrease in your usual activity and we want to ensure that everything is running smoothly for you.
+
+As a valued customer, your satisfaction is our priority. If there are any issues or concerns you're facing, we are here to help. We would also like to offer a 5% discount on your next purchase or renewal as a token of our appreciation for your continued partnership.
+
+Please feel free to reply to this email or call us at your earliest convenience. We look forward to hearing from you and continuing to support your business.
+
+Best regards,
+[Your Name]"
+2011-12-31,14415,1095.95,1,108,5,699.5333333333334,0.4324914675767917,0.579795434796013,842.6191707317074,1.299105138933051,95.18,175.75,437.76,246.41,140.85,488.3333333333334,0,-0.7955636855506998,0,0.0,0,12.48,0,47.7,0,51.0,0,0.0,0,,,0,0.0998325056720167,0.8926678171502882,"DIAGNOSIS: The account is at risk due to a general volume drop, indicating a decrease in their engagement or purchase behavior.
+
+EMAIL DRAFT:
+Subject: Quick Check-In and Special Offer
+
+Dear valued customer,
+
+I hope this message finds you well. I noticed that there has been a slight drop in your usual activity with us recently. As a valued customer, your satisfaction is our top priority. We are always here to support you and ensure you are getting the most out of our services.
+
+To show our appreciation for your continued partnership, we are offering an exclusive 5% discount on your next purchase. We hope this will provide an opportunity for you to explore more of our offerings and find additional value in our services.
+
+Please feel free to reach out if you have any questions or if there's anything specific you're looking for that you haven't been able to find. We're here to help.
+
+Thank you for your continued support. We look forward to serving you better.
+
+Best Regards,
+[Your Name]"
+2011-12-31,13521,805.77,2,255,5,546.825,0.8994893705710714,0.0,842.6191707317074,0.9551347669128012,29.36,88.07000000000001,439.23,172.59,76.52,287.88,0,0.0,0,21.77,0,33.04,0,153.52,0,43.15,0,36.4,0,,,0,0.0136070316560704,0.8755838799499813,"DIAGNOSIS: The account is at risk due to a significant drop in general volume, which is negatively impacting the revenue trend.
+
+EMAIL DRAFT: 
+Subject: Quick Check-In and Special Offer 
+
+Body: 
+
+Dear Valued Client,
+
+I hope this message finds you well. I've noticed a recent decrease in your usual activity with us, and I wanted to reach out to ensure everything is going smoothly. We value your business and are committed to providing you with the best service possible.
+
+To show our appreciation for your continued partnership, we'd like to offer you a special 5% discount on your next purchase. We believe this could be a great opportunity for you to explore more of our services and products.
+
+Please feel free to reach out if you have any questions or concerns. We're always here to help.
+
+Best Regards,
+[Your Name]"
+2011-12-31,17243,935.58,2,22,4,1324.6633333333332,0.0658129056482326,-1.6303077060875495,842.6191707317074,1.1090075148346037,0.0,31.45,824.39,64.74000000000001,15.0,1242.8666666666666,0,1.7123467100740477,0,64.16,1,112.49,0,1765.63,0,681.92,0,0.0,0,,,0,0.0163645089764449,0.8473076261440452,"DIAGNOSIS: The account is at risk due to a low revenue trend and gaps in the Bath & Organization category.
+
+EMAIL DRAFT:
+Subject: Quick Check-In and Special Offer for You
+
+Dear Valued Customer,
+
+I hope this email finds you well. I'm reaching out today to check in on how things are going with your account and to discuss some potential areas for growth, particularly in the Bath & Organization category.
+
+We've noticed that there might be some opportunities to maximize your benefits from our services and we'd like to help you explore these. As a token of our appreciation for your business, we're offering a special 5% discount on your next purchase or upgrade.
+
+Please let me know when would be a good time for a quick call or email exchange to discuss this further. We value your business and are committed to helping you make the most of our services.
+
+Best Regards,
+
+[Your Name]
+[Your Position]"
+2011-12-31,17629,339.45,1,18,4,338.58,0.3373094241251284,0.3709489569376683,842.6191707317074,0.402373501903211,0.0,104.0,117.97,87.48,30.0,253.18,0,-1.7127819127423214,0,0.0,0,0.0,0,63.78,0,18.72,0,0.0,0,,,0,0.1669025448871305,0.8378279109195568,"DIAGNOSIS: The account is at risk due to a significant drop in general volume, which is negatively affecting the revenue trend.
+
+EMAIL DRAFT: 
+Subject: Quick Check-In and Special Offer
+
+Dear Valued Customer,
+
+I hope this message finds you well. 
+
+I've noticed a recent drop in your account activity and I wanted to check in to see if there's anything we can do to support your business needs better. We value your partnership and are committed to helping you succeed.
+
+As a token of our appreciation for your continued business, we'd like to offer you a 5% discount on your next purchase. We believe this could provide an opportunity for you to explore more of our products or services.
+
+Please feel free to reach out if you have any questions or if there's anything else we can assist you with.
+
+Looking forward to hearing from you soon.
+
+Best Regards,
+
+[Your Name]
+[Your Position]"
+2011-12-31,15159,1834.79,3,63,5,3025.72,0.1583550805551123,0.0335285862529892,842.6191707317074,2.174903159690654,7.800000000000001,287.22,947.92,343.83000000000004,248.02,2612.083333333333,0,-0.9132367308475148,0,15.6,0,205.32,0,1188.44,0,778.12,0,76.72,0,,,0,0.0997614533460235,0.837741137686765,"DIAGNOSIS: The account is at risk due to a general volume drop, indicating a decrease in their purchasing or engagement with our services.
+
+EMAIL DRAFT:
+Subject: Quick check-in and a special offer for you
+
+Body: 
+
+Dear Client,
+
+I hope this message finds you well. I've noticed a slight decrease in your recent activity with us, and I wanted to check in and see if there's anything we can do to support you better.
+
+We value your partnership and to show our appreciation, we'd like to offer a 5% discount on your next purchase or service renewal. We believe this could be a great opportunity for you to explore more of our offerings or simply save on your regular transactions.
+
+Please feel free to share any concerns or questions you might have, and let us know how we can assist you further. We're here to help.
+
+Looking forward to hearing from you soon.
+
+Best regards,
+
+[Your Name]"
